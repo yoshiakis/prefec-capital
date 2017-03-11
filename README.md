@@ -1,24 +1,8 @@
-# README
+# Prefec-Capital App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is developed by React and Rails.
 
-Things you may want to cover:
+It allows you see which Japanese prefecture has which capital city.
 
-* Ruby version
+You can also see the [live demo on heroku](https://prefec-capital.herokuapp.com).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
