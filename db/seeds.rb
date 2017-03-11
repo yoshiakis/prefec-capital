@@ -9,7 +9,7 @@ Prefecture.create!([
   { prefec: 'Akita',     capital: 'Akita' },
   { prefec: 'Yamagata',  capital: 'Yamagata' },
   { prefec: 'Fukushima', capital: 'Fukushima' },
-  { prefec: 'Ibaragi',   capital: 'Mito' },
+  { prefec: 'Ibaraki',   capital: 'Mito' },
   { prefec: 'Tochigi',   capital: 'Utsunomiya' },
   { prefec: 'Gumma',     capital: 'Maehashi' },
   { prefec: 'Saitama',   capital: 'Saitama' },

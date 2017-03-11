@@ -4,5 +4,5 @@ const AboutMain = () =>
       which lets you see prefectures including the letters,
       and their corresponding capital cities.</p>
     <p>You can view this application source code <a
-      href="https://github.com/yoshiakis/Prefecture-Capital"> here</a>.</p>
+      href="https://prefec-capital.herokuapp.com">here</a>.</p>
   </div>
